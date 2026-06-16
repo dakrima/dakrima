@@ -6,7 +6,7 @@
 
 <h3 align="left"> Universidad Técnica Federico Santa María | Computer Engineering </h3>
 
-This is my code corner! I'm currently in my fourth year of Computer Engineering at Universidad Técnica Federico Santa María.
+This is my code corner! I'm currently in my fifth year of Computer Engineering at Universidad Técnica Federico Santa María.
 
 <h2 align="left"> Fun facts! 🦥 </h2>
 
